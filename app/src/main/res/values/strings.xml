@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_selection_instructions">Choose your user</string>
+    <string name="antman_name">Antman</string>
+    <string name="hulk_name">Hulk</string>
+    <string name="thor_name">Thor</string>
+    <string name="wanda_name">Wanda</string>
+    <string name="calls">Calls</string>
+    <string name="chats">Chats</string>
+    <string name="social">Social</string>
+    <string name="look_at_the_conversation">Look at the conversation</string>
+    <string name="you_dont_have_chats_to_show">You dont have chats to show</string>
+    <string name="online">Online</string>
+    <string name="chat__message_hint">Write a message</string>
+    <string name="chat__empty_messages">There are no messages to show</string>
+</resources>

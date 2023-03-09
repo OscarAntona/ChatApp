@@ -1,0 +1,20 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.ChatApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/teal_blue</item>
+        <item name="colorPrimaryVariant">@color/teal_blue_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_blue</item>
+        <item name="colorSecondaryVariant">@color/teal_blue_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+        <item name="actionBarStyle">@style/flatActionBar</item>
+    </style>
+    <style name="flatActionBar" parent="Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="elevation">0dp</item>
+    </style>
+</resources>
